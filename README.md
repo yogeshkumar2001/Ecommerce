@@ -1,5 +1,12 @@
-# ecommerce-app-2023
-complete mern stack ecommerce project 2023 complete code
-# Please check branches source code is video no wise 
-## here is project playlist : https://youtube.com/playlist?list=PLuHGmgpyHfRzhGkSUfY0vpi67X64g0mXB
-## please like subscribe and share TechinfoYT youtube chaannel
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
